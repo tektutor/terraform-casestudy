@@ -1,1 +1,3 @@
-# terraform-casestudy
+# Terraform automation case study
+
+
